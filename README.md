@@ -186,16 +186,8 @@ A: 源码结构将解释器实现为 C++ 类（Interpreter），可以在 C++ �
 
 附录：源代码参考位置
 ------------------
-- 交互与入口： [src/main.cpp](/E:/CppFiles/ProstoCode/src/main.cpp)
-- REPL 支持： [sec/prosto_repl.cpp](/E:/CppFiles/ProstoCode/sec/prosto_repl.cpp)
-- 运行时与内置： [sec/prosto_runtime.cpp](/E:/CppFiles/ProstoCode/sec/prosto_runtime.cpp)
-- 内置函数实现： [sec/prosto_builtins.cpp](/E:/CppFiles/ProstoCode/sec/prosto_builtins.cpp)
-- 公共声明： [sec/prosto_common.hpp](/E:/CppFiles/ProstoCode/sec/prosto_common.hpp)
-
-下一步我可以为你做（请选择一项回复）：
-- 把一个示例脚本 example.ptcp 添加到仓库并在 README 中包含完整示例运行步骤；
-- 将 README 翻译成英文或生成中英双语 README；
-- 列出内置函数与参数签名并把使用示例写入 README（需要更多时间来提取所有符号）。
-
----
-（由 AI assistant using Copilot CLI runtime in VS Code 生成）
+- 交互与入口： [src/main.cpp]
+- REPL 支持： [sec/prosto_repl.cpp]
+- 运行时与内置： [sec/prosto_runtime.cpp]
+- 内置函数实现： [sec/prosto_builtins.cpp]
+- 公共声明： [sec/prosto_common.hpp]
