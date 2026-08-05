@@ -1,0 +1,10 @@
+{
+  "name": "prosto",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "curl",
+    "openssl",
+    "sqlite3",
+    "libzip"
+  ]
+}
